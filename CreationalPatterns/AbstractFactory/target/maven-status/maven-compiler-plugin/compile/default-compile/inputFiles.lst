@@ -1,0 +1,10 @@
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/PatternsApplication.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/domain/Apple.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/domain/Fruit.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/domain/Orange.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/examle/ExampleCommandLineRunner.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/service/AppleFactory.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/service/ConcreteAbstractFactory.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/service/FruitFactory.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/service/FruitFactoryImpl.java
+/Users/maksimkudienko/SoftwareDesign/AbstractFactory/src/main/java/com/example/Patterns/service/OrangeFactory.java
